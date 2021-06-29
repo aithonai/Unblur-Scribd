@@ -1,0 +1,13 @@
+.auto__doc_page_webpack_doc_page_blur_promo {
+    display:none !important;
+}
+
+.text_layer {
+    text-shadow: none !important;
+    color: black !important;
+}
+
+.newpage span.a {
+    color: black !important;
+    z-index: 9999 !important;
+}
