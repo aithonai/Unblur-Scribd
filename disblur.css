@@ -11,3 +11,7 @@
     color: black !important;
     z-index: 9999 !important;
 }
+
+img {
+    opacity: 1 !important;
+}
