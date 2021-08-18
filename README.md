@@ -4,8 +4,6 @@
 1. Busca la opción "Modo desarrollador" y actívala<br/>
 2. Aparecerán tres opciones pero tu clickea en "Cargar desempaquetada"<br/>
 3. Busca la carpeta donde descargaste la extensión y seleccionala<br/> 
-.-ñ
-v97u.0+9
 Ya con eso debería aparecerte la extensión lista para funcionar, se llama "Disblur".
 
 <h3>Importante</h3>
