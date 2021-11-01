@@ -1,3 +1,6 @@
+# ¿Qué hace esta extensión?
+Quita automáticamente el desenfoque de los documentos en la página Scribd.
+
 # ¿Cómo instalar?
 0. Si estás en Chrome pon esto en el navegador<br/>
  `chrome://extensions/`<br/>
